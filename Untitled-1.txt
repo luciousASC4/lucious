@@ -1,0 +1,29 @@
+var playerChoice = "r";
+var cpuChoice == "s";
+
+if (playerChoicen=="r") && cpuChoice == "p"{
+    console.log("cpu won because it chose paper);
+}
+
+if (playerChoice == "r") && cpuChoice =="s"){
+    console.log("You won because you chose rock.");
+}
+
+if(playerChoice == "p") && cpuChoice == "s"){ 
+    console.log( "You won because chose s");
+
+}
+
+if(playerChoice == cpuChoice);{ 
+    console.log ( "Its a tie")
+
+}
+
+if(playerChoice == "p" && cpuChoice =="r");{
+    console.log()
+}
+
+
+
+
+ 
