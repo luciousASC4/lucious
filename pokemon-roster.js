@@ -1,0 +1,1 @@
+var pokemonStats =Name ["Gyarados","poliwrath", "charizard","Blastoise", "Machamp" type ["fire flying","water flying","water fighting", "water" ,"fighting"["95","90","78", "79", "90" ["79", "78", "100", "80"]["125", "95", "78", "83","130"[        ] ]

@@ -3,3 +3,5 @@ function welloHorld(){
 }
 
 welloHorld();
+
+function rand()

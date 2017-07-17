@@ -10,7 +10,7 @@ var artist = ["drake", "chance", "travis scott", "migos"];
 console.log( artist[14]);
 
 function randArtist(){
-    console.log(artist[Math.round(Math.random()* artist.length-1)])
+    console.log(artist[Math.round(Math.random()* artists.length-1)])
 }
 
 for(var i=0; i<5; i++){
