@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://68.media.tumblr.com/30a77e0665d70f6c64a54d280ddd0467/tumblr_o75pa0wboc1rzd731o1_500.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    p.solid{border-style: solid;}
+    border-color: blue;
+
+}
+
+
