@@ -1,3 +1,23 @@
 html{
     background-color: red;
 }
+     
+body{
+background-image: url("http://i.cdn.turner.com/drp/nba/timberwolves/sites/default/files/456484932_master.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: red;
+   font-size: 100%;
+   text-align: 0 auto;
+
+ }
+.lucious{
+    position: absolute;
+    top: 50%;
+}
+
+.wrapper{
+    text-align: center;
+}
+    
