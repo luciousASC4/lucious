@@ -11,7 +11,8 @@
       $("body").append(userLastname+" ");
        var userPic = (data.results[0].picture.large);
     console.log(userPic);
-     $("body").append(userPic+" ");
+     $("body").append(userPic+"    ");
+
     
 
   }
