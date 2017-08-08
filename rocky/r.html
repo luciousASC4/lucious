@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <scirpt src="http://code.jquery.com/jquery-3.2.1.js"
+    <script src="http://code.jquery.com/jquery-3.2.1.js"
     integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
     crossorigin="anonymous"> </script>
 
@@ -11,11 +11,26 @@
     </head>
 
         <body>
-            <button type="button" onclick="alert('rock')">Rock</button>
+           <!-- <button type="button" onclick="alert('rock')">Rock</button>
              <button type="button" onclick="alert('paper')">Paper</button>
              <button type="button" onclick="alert('scissors')">scissors</button>
-             <button onClick='compare(user, computerChoice)'>Go!</button>
+             <button onClick='compare(playerChoice, cpuChoice)'>Go!</button>!-->
+             <form>
+  initials:<br>
+  <input type="text" name="initials"><br>
+  <button type="button">start</button>
+</form>  
+            
+          
+           
+            <button onClick='choose("rock")'>Rock</button>
+<button onClick='choose("paper")'>Paper</button>
+<button onClick='choose("scissors")'>Scissors</button>
+<button onClick='compare()'>Go!</button>
 
+<p id="result">Winner:</p>
+<p id="playerscore">Player Score:</p>
+<p id="computerscore">Computer Score:</p>
            
         </body>
 
